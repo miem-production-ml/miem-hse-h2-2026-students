@@ -32,3 +32,22 @@
 Можно скачать отдельный файл через интерфейс GitHub или клонировать репозиторий целиком. Для домашних заданий всегда используйте файлы из последнего опубликованного коммита.
 
 Вопросы по условиям и срокам задавайте преподавателю в учебном канале.
+
+## Окружение
+
+uv:
+
+```bash
+uv sync --frozen
+uv run jupyter lab
+```
+
+Conda:
+
+```bash
+conda env create -f environment.yml
+conda activate miem-hse-ml-course
+jupyter lab
+```
+
+Оба варианта используют Python 3.11 и PyTorch. TensorFlow не требуется.

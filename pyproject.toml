@@ -1,0 +1,23 @@
+[project]
+name = "miem-hse-ml-course"
+version = "2026.2"
+description = "Reproducible notebook environment for the MIEM HSE machine learning course"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "ipykernel",
+    "jupyterlab",
+    "matplotlib",
+    "notebook",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "scipy",
+    "seaborn",
+    "statsmodels",
+    "torch",
+    "tqdm",
+    "wordcloud",
+]
+
+[tool.uv]
+package = false
