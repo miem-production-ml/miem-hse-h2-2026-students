@@ -6,13 +6,13 @@
 
 ## Презентации
 
-- [Занятие 1. Введение в машинное обучение](lesson_01_introduction_to_machine_learning/lesson_01_introduction_to_ml.pptx)
-- [Занятие 2. Разведочный анализ данных](lesson_02_exploratory_data_analysis/lesson_02_exploratory_data_analysis.pptx)
-- [Занятие 3. Признаки и предобработка данных](lesson_03_features_and_preprocessing/lesson_03_features_and_preprocessing.pptx)
-- [Занятие 4. Контролируемое машинное обучение](lesson_04_supervised_learning/lesson_04_supervised_learning.pptx)
-- [Занятие 5. Неконтролируемое машинное обучение](lesson_05_unsupervised_learning/lesson_05_unsupervised_learning.pptx)
-- [Занятие 6. Временные ряды](lesson_06_time_series/lesson_06_time_series.pptx)
-- [Занятия 7–8. Нейронные сети](lessons_07_08_neural_networks/lessons_07_08_neural_networks.pptx)
+- Занятие 1. Введение в машинное обучение: [PPTX](lesson_01_introduction_to_machine_learning/lesson_01_introduction_to_ml.pptx) · [PDF](lesson_01_introduction_to_machine_learning/lesson_01_introduction_to_ml.pdf)
+- Занятие 2. Разведочный анализ данных: [PPTX](lesson_02_exploratory_data_analysis/lesson_02_exploratory_data_analysis.pptx) · [PDF](lesson_02_exploratory_data_analysis/lesson_02_exploratory_data_analysis.pdf)
+- Занятие 3. Признаки и предобработка данных: [PPTX](lesson_03_features_and_preprocessing/lesson_03_features_and_preprocessing.pptx) · [PDF](lesson_03_features_and_preprocessing/lesson_03_features_and_preprocessing.pdf)
+- Занятие 4. Контролируемое машинное обучение: [PPTX](lesson_04_supervised_learning/lesson_04_supervised_learning.pptx) · [PDF](lesson_04_supervised_learning/lesson_04_supervised_learning.pdf)
+- Занятие 5. Неконтролируемое машинное обучение: [PPTX](lesson_05_unsupervised_learning/lesson_05_unsupervised_learning.pptx) · [PDF](lesson_05_unsupervised_learning/lesson_05_unsupervised_learning.pdf)
+- Занятие 6. Временные ряды: [PPTX](lesson_06_time_series/lesson_06_time_series.pptx) · [PDF](lesson_06_time_series/lesson_06_time_series.pdf)
+- Занятия 7–8. Нейронные сети: [PPTX](lessons_07_08_neural_networks/lessons_07_08_neural_networks.pptx) · [PDF](lessons_07_08_neural_networks/lessons_07_08_neural_networks.pdf)
 
 ## Практические материалы и домашние задания
 
