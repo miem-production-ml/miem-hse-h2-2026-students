@@ -4,6 +4,8 @@
 
 - [Рекомендуемые материалы на русском и английском](course/recommended_materials.md)
 
+- [Соревнования и хакатоны по ML и анализу данных — осень 2026](course/competitions_and_hackathons.md)
+
 ## Презентации
 
 - Занятие 1. Введение в машинное обучение: [PPTX](lesson_01_introduction_to_machine_learning/lesson_01_introduction_to_ml.pptx) · [PDF](lesson_01_introduction_to_machine_learning/lesson_01_introduction_to_ml.pdf)
