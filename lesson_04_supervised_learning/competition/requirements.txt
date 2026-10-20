@@ -1,0 +1,6 @@
+# Tested with Python 3.11.16; use Python 3.11 or newer.
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+scikit-learn==1.9.1
+jupyterlab==4.6.4
